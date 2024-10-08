@@ -1,17 +1,22 @@
-﻿using DMAWS_T2305M_NGUYEN_TIEN_DUNG.Models;
+﻿using System.Text.Json;
+using System.Text.Json.Serialization;
+using DMAWS_T2305M_NGUYEN_TIEN_DUNG.Models;
 using Microsoft.EntityFrameworkCore;
-using Swashbuckle.AspNetCore.SwaggerGen;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddControllersWithViews();
+builder.Services.AddControllersWithViews()
+    .AddJsonOptions(options =>
+    {
+        options.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.Preserve;  // Xử lý vòng lặp tuần hoàn
+        options.JsonSerializerOptions.DefaultIgnoreCondition = JsonIgnoreCondition.WhenWritingNull; // Bỏ qua các giá trị null
+    });
 
-// Cấu hình DbContext với SQL Server
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
-// Thêm Swagger để kiểm thử API
+// Thêm Swagger
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
@@ -20,11 +25,11 @@ var app = builder.Build();
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
-    // Sử dụng Swagger UI để hiển thị tài liệu API
     app.UseSwagger();
     app.UseSwaggerUI(c =>
     {
         c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V1");
+        c.RoutePrefix = string.Empty;  // Cấu hình Swagger là trang mặc định
     });
 }
 else
@@ -35,17 +40,12 @@ else
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
-
 app.UseRouting();
-
 app.UseAuthorization();
 
-// Map các controller mặc định cho MVC
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
-// Map các API controllers
 app.MapControllers();
-
 app.Run();

@@ -7,16 +7,8 @@
       "RelativeMoniker": "D:0:0:{69C9C447-0D76-4EAB-87AB-6B274EACC2B5}|DMAWS_T2305M_NGUYEN_TIEN_DUNG\\DMAWS_T2305M_NGUYEN_TIEN_DUNG.csproj|solutionrelative:dmaws_t2305m_nguyen_tien_dung\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69C9C447-0D76-4EAB-87AB-6B274EACC2B5}|DMAWS_T2305M_NGUYEN_TIEN_DUNG\\DMAWS_T2305M_NGUYEN_TIEN_DUNG.csproj|c:\\users\\never\\source\\repos\\dmaws_t2305m_nguyen_tien_dung\\dmaws_t2305m_nguyen_tien_dung\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69C9C447-0D76-4EAB-87AB-6B274EACC2B5}|DMAWS_T2305M_NGUYEN_TIEN_DUNG\\DMAWS_T2305M_NGUYEN_TIEN_DUNG.csproj|solutionrelative:dmaws_t2305m_nguyen_tien_dung\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69C9C447-0D76-4EAB-87AB-6B274EACC2B5}|DMAWS_T2305M_NGUYEN_TIEN_DUNG\\DMAWS_T2305M_NGUYEN_TIEN_DUNG.csproj|c:\\users\\never\\source\\repos\\dmaws_t2305m_nguyen_tien_dung\\dmaws_t2305m_nguyen_tien_dung\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69C9C447-0D76-4EAB-87AB-6B274EACC2B5}|DMAWS_T2305M_NGUYEN_TIEN_DUNG\\DMAWS_T2305M_NGUYEN_TIEN_DUNG.csproj|solutionrelative:dmaws_t2305m_nguyen_tien_dung\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69C9C447-0D76-4EAB-87AB-6B274EACC2B5}|DMAWS_T2305M_NGUYEN_TIEN_DUNG\\DMAWS_T2305M_NGUYEN_TIEN_DUNG.csproj|c:\\users\\never\\source\\repos\\dmaws_t2305m_nguyen_tien_dung\\dmaws_t2305m_nguyen_tien_dung\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69C9C447-0D76-4EAB-87AB-6B274EACC2B5}|DMAWS_T2305M_NGUYEN_TIEN_DUNG\\DMAWS_T2305M_NGUYEN_TIEN_DUNG.csproj|solutionrelative:dmaws_t2305m_nguyen_tien_dung\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{69C9C447-0D76-4EAB-87AB-6B274EACC2B5}|DMAWS_T2305M_NGUYEN_TIEN_DUNG\\DMAWS_T2305M_NGUYEN_TIEN_DUNG.csproj|c:\\users\\never\\source\\repos\\dmaws_t2305m_nguyen_tien_dung\\dmaws_t2305m_nguyen_tien_dung\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{69C9C447-0D76-4EAB-87AB-6B274EACC2B5}|DMAWS_T2305M_NGUYEN_TIEN_DUNG\\DMAWS_T2305M_NGUYEN_TIEN_DUNG.csproj|solutionrelative:dmaws_t2305m_nguyen_tien_dung\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{69C9C447-0D76-4EAB-87AB-6B274EACC2B5}|DMAWS_T2305M_NGUYEN_TIEN_DUNG\\DMAWS_T2305M_NGUYEN_TIEN_DUNG.csproj|c:\\users\\never\\source\\repos\\dmaws_t2305m_nguyen_tien_dung\\dmaws_t2305m_nguyen_tien_dung\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,12 +19,28 @@
       "RelativeMoniker": "D:0:0:{69C9C447-0D76-4EAB-87AB-6B274EACC2B5}|DMAWS_T2305M_NGUYEN_TIEN_DUNG\\DMAWS_T2305M_NGUYEN_TIEN_DUNG.csproj|solutionrelative:dmaws_t2305m_nguyen_tien_dung\\models\\projectemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{69C9C447-0D76-4EAB-87AB-6B274EACC2B5}|DMAWS_T2305M_NGUYEN_TIEN_DUNG\\DMAWS_T2305M_NGUYEN_TIEN_DUNG.csproj|c:\\users\\never\\source\\repos\\dmaws_t2305m_nguyen_tien_dung\\dmaws_t2305m_nguyen_tien_dung\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C9C447-0D76-4EAB-87AB-6B274EACC2B5}|DMAWS_T2305M_NGUYEN_TIEN_DUNG\\DMAWS_T2305M_NGUYEN_TIEN_DUNG.csproj|solutionrelative:dmaws_t2305m_nguyen_tien_dung\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C9C447-0D76-4EAB-87AB-6B274EACC2B5}|DMAWS_T2305M_NGUYEN_TIEN_DUNG\\DMAWS_T2305M_NGUYEN_TIEN_DUNG.csproj|c:\\users\\never\\source\\repos\\dmaws_t2305m_nguyen_tien_dung\\dmaws_t2305m_nguyen_tien_dung\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C9C447-0D76-4EAB-87AB-6B274EACC2B5}|DMAWS_T2305M_NGUYEN_TIEN_DUNG\\DMAWS_T2305M_NGUYEN_TIEN_DUNG.csproj|solutionrelative:dmaws_t2305m_nguyen_tien_dung\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C9C447-0D76-4EAB-87AB-6B274EACC2B5}|DMAWS_T2305M_NGUYEN_TIEN_DUNG\\DMAWS_T2305M_NGUYEN_TIEN_DUNG.csproj|c:\\users\\never\\source\\repos\\dmaws_t2305m_nguyen_tien_dung\\dmaws_t2305m_nguyen_tien_dung\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C9C447-0D76-4EAB-87AB-6B274EACC2B5}|DMAWS_T2305M_NGUYEN_TIEN_DUNG\\DMAWS_T2305M_NGUYEN_TIEN_DUNG.csproj|solutionrelative:dmaws_t2305m_nguyen_tien_dung\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C9C447-0D76-4EAB-87AB-6B274EACC2B5}|DMAWS_T2305M_NGUYEN_TIEN_DUNG\\DMAWS_T2305M_NGUYEN_TIEN_DUNG.csproj|c:\\users\\never\\source\\repos\\dmaws_t2305m_nguyen_tien_dung\\dmaws_t2305m_nguyen_tien_dung\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C9C447-0D76-4EAB-87AB-6B274EACC2B5}|DMAWS_T2305M_NGUYEN_TIEN_DUNG\\DMAWS_T2305M_NGUYEN_TIEN_DUNG.csproj|solutionrelative:dmaws_t2305m_nguyen_tien_dung\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{69C9C447-0D76-4EAB-87AB-6B274EACC2B5}|DMAWS_T2305M_NGUYEN_TIEN_DUNG\\DMAWS_T2305M_NGUYEN_TIEN_DUNG.csproj|c:\\users\\never\\source\\repos\\dmaws_t2305m_nguyen_tien_dung\\dmaws_t2305m_nguyen_tien_dung\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69C9C447-0D76-4EAB-87AB-6B274EACC2B5}|DMAWS_T2305M_NGUYEN_TIEN_DUNG\\DMAWS_T2305M_NGUYEN_TIEN_DUNG.csproj|solutionrelative:dmaws_t2305m_nguyen_tien_dung\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69C9C447-0D76-4EAB-87AB-6B274EACC2B5}|DMAWS_T2305M_NGUYEN_TIEN_DUNG\\DMAWS_T2305M_NGUYEN_TIEN_DUNG.csproj|c:\\users\\never\\source\\repos\\dmaws_t2305m_nguyen_tien_dung\\dmaws_t2305m_nguyen_tien_dung\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69C9C447-0D76-4EAB-87AB-6B274EACC2B5}|DMAWS_T2305M_NGUYEN_TIEN_DUNG\\DMAWS_T2305M_NGUYEN_TIEN_DUNG.csproj|solutionrelative:dmaws_t2305m_nguyen_tien_dung\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{69C9C447-0D76-4EAB-87AB-6B274EACC2B5}|DMAWS_T2305M_NGUYEN_TIEN_DUNG\\DMAWS_T2305M_NGUYEN_TIEN_DUNG.csproj|c:\\users\\never\\source\\repos\\dmaws_t2305m_nguyen_tien_dung\\dmaws_t2305m_nguyen_tien_dung\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C9C447-0D76-4EAB-87AB-6B274EACC2B5}|DMAWS_T2305M_NGUYEN_TIEN_DUNG\\DMAWS_T2305M_NGUYEN_TIEN_DUNG.csproj|solutionrelative:dmaws_t2305m_nguyen_tien_dung\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,8 +50,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 889,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\never\\source\\repos\\DMAWS_T2305M_NGUYEN_TIEN_DUNG\\DMAWS_T2305M_NGUYEN_TIEN_DUNG\\appsettings.json",
+              "RelativeDocumentMoniker": "DMAWS_T2305M_NGUYEN_TIEN_DUNG\\appsettings.json",
+              "ToolTip": "C:\\Users\\never\\source\\repos\\DMAWS_T2305M_NGUYEN_TIEN_DUNG\\DMAWS_T2305M_NGUYEN_TIEN_DUNG\\appsettings.json",
+              "RelativeToolTip": "DMAWS_T2305M_NGUYEN_TIEN_DUNG\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-08T05:41:08.903Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -52,14 +76,26 @@
               "RelativeDocumentMoniker": "DMAWS_T2305M_NGUYEN_TIEN_DUNG\\Program.cs",
               "ToolTip": "C:\\Users\\never\\source\\repos\\DMAWS_T2305M_NGUYEN_TIEN_DUNG\\DMAWS_T2305M_NGUYEN_TIEN_DUNG\\Program.cs",
               "RelativeToolTip": "DMAWS_T2305M_NGUYEN_TIEN_DUNG\\Program.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAcwBgAAAAZAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAwwCUAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T04:35:18.952Z",
+              "WhenOpened": "2024-10-08T05:41:07.844Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\never\\source\\repos\\DMAWS_T2305M_NGUYEN_TIEN_DUNG\\DMAWS_T2305M_NGUYEN_TIEN_DUNG\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DMAWS_T2305M_NGUYEN_TIEN_DUNG\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\never\\source\\repos\\DMAWS_T2305M_NGUYEN_TIEN_DUNG\\DMAWS_T2305M_NGUYEN_TIEN_DUNG\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DMAWS_T2305M_NGUYEN_TIEN_DUNG\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T04:54:19.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "EmployeesController.cs",
               "DocumentMoniker": "C:\\Users\\never\\source\\repos\\DMAWS_T2305M_NGUYEN_TIEN_DUNG\\DMAWS_T2305M_NGUYEN_TIEN_DUNG\\Controllers\\EmployeesController.cs",
               "RelativeDocumentMoniker": "DMAWS_T2305M_NGUYEN_TIEN_DUNG\\Controllers\\EmployeesController.cs",
@@ -67,38 +103,35 @@
               "RelativeToolTip": "DMAWS_T2305M_NGUYEN_TIEN_DUNG\\Controllers\\EmployeesController.cs",
               "ViewState": "AQIAAFoAAAAAAAAAAAAkwHMAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T04:28:39.837Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T04:28:39.837Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "ProjectsController.cs",
               "DocumentMoniker": "C:\\Users\\never\\source\\repos\\DMAWS_T2305M_NGUYEN_TIEN_DUNG\\DMAWS_T2305M_NGUYEN_TIEN_DUNG\\Controllers\\ProjectsController.cs",
               "RelativeDocumentMoniker": "DMAWS_T2305M_NGUYEN_TIEN_DUNG\\Controllers\\ProjectsController.cs",
               "ToolTip": "C:\\Users\\never\\source\\repos\\DMAWS_T2305M_NGUYEN_TIEN_DUNG\\DMAWS_T2305M_NGUYEN_TIEN_DUNG\\Controllers\\ProjectsController.cs",
               "RelativeToolTip": "DMAWS_T2305M_NGUYEN_TIEN_DUNG\\Controllers\\ProjectsController.cs",
-              "ViewState": "AQIAAF8AAAAAAAAAAAA7wH0AAAAxAAAA",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAkwH0AAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T04:27:40.615Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T04:27:40.615Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "ProjectEmployee.cs",
               "DocumentMoniker": "C:\\Users\\never\\source\\repos\\DMAWS_T2305M_NGUYEN_TIEN_DUNG\\DMAWS_T2305M_NGUYEN_TIEN_DUNG\\Models\\ProjectEmployee.cs",
               "RelativeDocumentMoniker": "DMAWS_T2305M_NGUYEN_TIEN_DUNG\\Models\\ProjectEmployee.cs",
               "ToolTip": "C:\\Users\\never\\source\\repos\\DMAWS_T2305M_NGUYEN_TIEN_DUNG\\DMAWS_T2305M_NGUYEN_TIEN_DUNG\\Models\\ProjectEmployee.cs",
               "RelativeToolTip": "DMAWS_T2305M_NGUYEN_TIEN_DUNG\\Models\\ProjectEmployee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T04:27:02.886Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T04:27:02.886Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\never\\source\\repos\\DMAWS_T2305M_NGUYEN_TIEN_DUNG\\DMAWS_T2305M_NGUYEN_TIEN_DUNG\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "DMAWS_T2305M_NGUYEN_TIEN_DUNG\\Models\\ErrorViewModel.cs",
@@ -106,38 +139,35 @@
               "RelativeToolTip": "DMAWS_T2305M_NGUYEN_TIEN_DUNG\\Models\\ErrorViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T04:27:01.812Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T04:27:01.812Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Project.cs",
               "DocumentMoniker": "C:\\Users\\never\\source\\repos\\DMAWS_T2305M_NGUYEN_TIEN_DUNG\\DMAWS_T2305M_NGUYEN_TIEN_DUNG\\Models\\Project.cs",
               "RelativeDocumentMoniker": "DMAWS_T2305M_NGUYEN_TIEN_DUNG\\Models\\Project.cs",
               "ToolTip": "C:\\Users\\never\\source\\repos\\DMAWS_T2305M_NGUYEN_TIEN_DUNG\\DMAWS_T2305M_NGUYEN_TIEN_DUNG\\Models\\Project.cs",
               "RelativeToolTip": "DMAWS_T2305M_NGUYEN_TIEN_DUNG\\Models\\Project.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAACEAAAAFAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAwwA4AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T04:27:00.937Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T04:27:00.937Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\never\\source\\repos\\DMAWS_T2305M_NGUYEN_TIEN_DUNG\\DMAWS_T2305M_NGUYEN_TIEN_DUNG\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "DMAWS_T2305M_NGUYEN_TIEN_DUNG\\Models\\Employee.cs",
               "ToolTip": "C:\\Users\\never\\source\\repos\\DMAWS_T2305M_NGUYEN_TIEN_DUNG\\DMAWS_T2305M_NGUYEN_TIEN_DUNG\\Models\\Employee.cs",
               "RelativeToolTip": "DMAWS_T2305M_NGUYEN_TIEN_DUNG\\Models\\Employee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T04:27:00.028Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T04:27:00.028Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\never\\source\\repos\\DMAWS_T2305M_NGUYEN_TIEN_DUNG\\DMAWS_T2305M_NGUYEN_TIEN_DUNG\\Models\\AppDbContext.cs",
               "RelativeDocumentMoniker": "DMAWS_T2305M_NGUYEN_TIEN_DUNG\\Models\\AppDbContext.cs",
@@ -145,8 +175,7 @@
               "RelativeToolTip": "DMAWS_T2305M_NGUYEN_TIEN_DUNG\\Models\\AppDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T04:26:57.717Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T04:26:57.717Z"
             }
           ]
         }
